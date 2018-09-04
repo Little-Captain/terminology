@@ -1,0 +1,3 @@
+WAN: Wide Area Network, 广域网
+MAN: Metropolitan Area Network, 城域网
+LAN: Local Area Network, 局域网
